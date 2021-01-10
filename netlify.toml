@@ -1,2 +1,4 @@
 [build]
+    build="npm run build"
+    publish="/dist"
     functions="lambda"
